@@ -1,0 +1,62 @@
+[
+    { 
+        "title": "conoguafle",
+        "precio": 500,
+        "id": 1,
+        "url": "https://picsum.photos/id/0/600"
+    },
+    {
+        "title": "blizzar",
+        "precio": 500,
+        "id": 2,
+        "url": "https://picsum.photos/id/1/600"
+    },
+    {
+        "title": "cono",
+        "precio": 500,
+        "id": 3,
+        "url": "https://picsum.photos/id/2/600"
+    },
+    {
+        "title": "dally bar",
+        "precio": 500,
+        "id": 4,
+        "url": "https://picsum.photos/id/3/600"
+    },
+    {
+        "title": "malteada",
+        "precio": 500,
+        "id": 5,
+        "url": "https://picsum.photos/id/4/600"
+    },
+    {
+        "title": "banana split",
+        "precio": 500,
+        "id": 6,
+        "url": "https://picsum.photos/id/5/600"
+    },
+    {
+        "title": "frappe",
+        "precio": 500,
+        "id": 7,
+        "url": "https://picsum.photos/id/6/600"
+    },
+    {
+        "title": "sunday",
+        "precio": 500,
+        "id": 8,
+        "url": "https://picsum.photos/id/7/600"
+    },
+    {
+        "title": "slus",
+        "precio": 500,
+        "id": 9,
+        "url": "https://picsum.photos/id/8/600"
+    },
+    {
+        "title": "pastel extreme",
+        "precio": 500,
+        "id": 10,
+        "url": "https://picsum.photos/id/9/600"
+    }
+]
